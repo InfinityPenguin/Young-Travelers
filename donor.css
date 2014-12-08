@@ -1,0 +1,16 @@
+div.image {
+	width: 900px;
+	height: 590px;
+	background-image:url('orig.png');
+	display: block;
+	margin:auto;
+	white-space:nowrap;
+	overflow:auto;
+	-webkit-filter: grayscale(65%);}
+
+p {
+	color: #c5b358;
+	font-family: Lucida Sans Unicode, sans-serif;
+	font-size: 20px;
+	text-align: center;
+}
